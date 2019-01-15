@@ -1,0 +1,36 @@
+.box-office {
+  border-style: dashed;
+
+  color: blue;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+  text-align: center;
+  position: fixed;
+      top: 50%;
+      left: 50%;
+      -webkit-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+  background-color: yellow;
+  margin: 15px;
+
+}
+
+.film-title {
+
+  border-style: solid;
+  border-radius: 50px;
+  border-width: medium;
+  margin: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  font-size: 30px;
+  font-family: 'Karla', sans-serif;
+  font-weight: bold;
+  margin: 15px;
+  color:inherit;
+
+}
